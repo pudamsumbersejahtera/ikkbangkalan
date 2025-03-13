@@ -1,0 +1,1 @@
+var json_GateValve300mm_10 = {"type":"FeatureCollection","name":"GateValve300mm_10","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","Lokasi":"Jl. Pemuda Kaffa (Pertigaan)","Ukuran":"12\"" }, "geometry": { "type": "Point", "coordinates": [ 112.761640690505558, -7.031464954830353 ] } }]}
